@@ -1,15 +1,13 @@
 # #MITW_WG1
-## MITW FHIR Patient 上傳與下載
-```
-測試
-```
+# MITW FHIR Patient 簡介
 # FHIR Patient檔案主要可依使用情境的不同，根據.json中的`"managingOrganization"`欄位分為三類：
 
 * ## Patient ForIdentifier
 `"managingOrganization":{"reference": "Organization/MITW.ForIdentifier"}`
-## * Patient ForContact
+
+* ## Patient ForContact
 `"managingOrganization":{"reference": "Organization/MITW.ForContact"}`
 
-## * Patient ForPHR
+* ## Patient ForPHR
 `"managingOrganization":{"reference": "Organization/MITW.PHR"}`
 
