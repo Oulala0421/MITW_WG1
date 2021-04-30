@@ -3,7 +3,7 @@
 ```
 測試
 ```
-# Patient檔案主要可依使用情境，根據.json中的managingOrganization欄位分為三類：
+# Patient檔案主要可依使用情境，根據.json中的`"managingOrganization"`欄位分為三類：
 
 ## * Patient ForIdentifier
 
